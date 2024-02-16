@@ -1,7 +1,7 @@
 
 # Introdução 
 
-A priori, o presente relatório almeja delineiar meticulosamente o procedimento para a criação e acesso seguro a instâncias de máquinas virtuais EC2 (Elastic Compute Cloud) na plataforma Amazon Web Services (AWS) mediante a empregabilidade do protocolo SSH (Secure Shell), utilizando a notória ferramenta PUTTY. Nesse sentido, a essência deste empreendimento é evidenciar a competência no provisionamento e gestão de recursos computacionais na nuvem de modo inabalavelmente seguro e eficiente.
+A priori, o presente relatório almeja delinear meticulosamente o procedimento para a criação e acesso seguro a instâncias de máquinas virtuais EC2 (Elastic Compute Cloud) na plataforma Amazon Web Services (AWS) mediante a empregabilidade do protocolo SSH (Secure Shell), utilizando a notória ferramenta PUTTY. Nesse sentido, a essência deste empreendimento é evidenciar a competência no provisionamento e gestão de recursos computacionais na nuvem de modo inabalavelmente seguro e eficiente.
 
 # Objetivo
 * Criar uma instância EC2 na infraestrutura fornecida pela AWS;
